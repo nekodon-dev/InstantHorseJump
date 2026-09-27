@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.nekodon.instanthorsejump.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "KeyboardInputMixin",
+    "LocalPlayerAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+
